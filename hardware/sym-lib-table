@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name dk_USB-DVI-HDMI-Connectors)(type Legacy)(uri C:/projects/digikey-kicad-library/digikey-symbols/dk_USB-DVI-HDMI-Connectors.lib)(options "")(descr ""))
+  (lib (name dk_Pushbutton-Switches)(type Legacy)(uri C:/projects/digikey-kicad-library/digikey-symbols/dk_Pushbutton-Switches.lib)(options "")(descr ""))
+  (lib (name SharpLCDUSB-rescue)(type Legacy)(uri ${KIPRJMOD}/SharpLCDUSB-rescue.lib)(options "")(descr ""))
+)
